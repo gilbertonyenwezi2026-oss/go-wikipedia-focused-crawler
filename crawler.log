@@ -1,0 +1,24 @@
+2026/05/13 18:23:20 Starting Go Wikipedia focused crawler
+2026/05/13 18:23:20 Visiting: https://en.wikipedia.org/wiki/Robot
+2026/05/13 18:23:20 Visiting: https://en.wikipedia.org/wiki/Robot_Operating_System
+2026/05/13 18:23:20 Visiting: https://en.wikipedia.org/wiki/Robotics
+2026/05/13 18:23:20 Visiting: https://en.wikipedia.org/wiki/Android_(robot)
+2026/05/13 18:23:20 Visiting: https://en.wikipedia.org/wiki/Software_agent
+2026/05/13 18:23:20 Visiting: https://en.wikipedia.org/wiki/Robotic_process_automation
+2026/05/13 18:23:20 Visiting: https://en.wikipedia.org/wiki/Chatbot
+2026/05/13 18:23:20 Visiting: https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence
+2026/05/13 18:23:20 Visiting: https://en.wikipedia.org/wiki/Reinforcement_learning
+2026/05/13 18:23:20 Visiting: https://en.wikipedia.org/wiki/Intelligent_agent
+2026/05/13 18:23:22 Scraped page: Robot | Words: 9020
+2026/05/13 18:23:22 Scraped page: Android (robot) | Words: 2568
+2026/05/13 18:23:22 Scraped page: Robot Operating System | Words: 3143
+2026/05/13 18:23:22 Scraped page: Software agent | Words: 1630
+2026/05/13 18:23:22 Scraped page: Robotics | Words: 4046
+2026/05/13 18:23:22 Scraped page: Robotic process automation | Words: 1951
+2026/05/13 18:23:22 Scraped page: Chatbot | Words: 2837
+2026/05/13 18:23:22 Scraped page: Applications of artificial intelligence | Words: 6195
+2026/05/13 18:23:22 Scraped page: Reinforcement learning | Words: 5141
+2026/05/13 18:23:22 Scraped page: Intelligent agent | Words: 2192
+2026/05/13 18:23:22 Crawler completed successfully
+2026/05/13 18:23:22 Pages scraped: 10
+2026/05/13 18:23:22 Elapsed time: 1.3001662s
