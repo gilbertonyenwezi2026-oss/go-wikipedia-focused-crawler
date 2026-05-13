@@ -1,0 +1,72 @@
+Gen AI Tools Log
+
+Project: Go Wikipedia Focused Crawler
+Course: MSDS 431 - Go Assisted Programming
+Assignment: Go-Based Web Crawler/Scraper Using Colly
+
+Overview
+
+Generative AI tools were used to support the planning, development, debugging, documentation, and refinement of this assignment. The final project was reviewed, edited, and tested by the student before submission.
+
+Tool Used
+
+ChatGPT was used as a programming and documentation assistant.
+
+How Generative AI Was Used
+
+
+1. Code Development Support
+
+ChatGPT provided starter code examples for:
+
+- Defining a PageItem struct
+- Creating text cleaning functions
+- Counting words in extracted page text
+- Writing JSON lines output
+- Configuring a Colly collector
+- Visiting a predefined list of Wikipedia URLs
+- Extracting page titles and article paragraph text
+- Recording runtime logs
+- Measuring elapsed processing time
+
+2. Debugging Support
+
+ChatGPT helped troubleshoot development issues, including:
+
+- Missing Go module dependency for github.com/gocolly/colly/v2
+- Running go get and go mod tidy
+- Correct placement of timing code such as time.Now() and time.Since()
+- Aligning Go import paths with the module name in go.mod
+
+3. Testing Support
+
+ChatGPT suggested unit tests for critical components, including:
+
+- CleanText() for whitespace normalization
+- CountWords() for validating word counts
+- WriteJSONLines() for confirming that page records are written correctly as JSON lines
+
+4. README Documentation
+
+ChatGPT helped draft the README.md file, including sections for:
+
+- Data sources
+- Setup instructions
+- Run instructions
+- Test instructions
+- Build instructions
+- Output format
+- Logging
+- Performance notes
+- Python/Scrapy versus Go/Colly comparison
+- Gen AI Tools disclosure
+- References
+- Submission notes
+
+Student Review and Responsibility
+
+All AI-generated material was reviewed and adjusted before being used in the final assignment. The student was responsible for running the program, validating the output file, checking unit tests, reviewing the README, and ensuring that the repository met the assignment requirements.
+
+Summary of AI Contribution
+
+Generative AI was used as a support tool for planning, coding guidance, debugging, testing strategy, and documentation. It did not replace the student's responsibility for understanding, testing, and submitting the final working project.
